@@ -206,3 +206,9 @@ quit_button = tk.Button(
 quit_button.grid(row=0, column=1, padx=20)
 
 root.mainloop()
+
+
+# 🎮 Description:
+# This is a Rock, Paper, Scissors game built with Python's tkinter library.
+# It features score tracking, round counting, persistent data saving, reset functionality,
+# and animated results — making it a fun, interactive mini desktop game.
